@@ -1,0 +1,4 @@
+{
+    "db2forzosdeveloperextension.db2sqlservice.port": "3010",
+    "php.debug.executablePath": "Downloads/php-8.3.0"
+}
